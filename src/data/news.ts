@@ -16,7 +16,7 @@ export const newsData: NewsItem[] = [
     date: '2026-06-07',
     tag: '大模型',
     source: 'OpenAI官方',
-    imageUrl: 'https://placehold.co/600x400/6366f1/ffffff?text=GPT-5',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%236366f1%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eGPT-5%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '2',
@@ -25,7 +25,7 @@ export const newsData: NewsItem[] = [
     date: '2026-06-05',
     tag: '大模型',
     source: 'Google AI Blog',
-    imageUrl: 'https://placehold.co/600x400/10b981/ffffff?text=Gemini+2.5',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%2310b981%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eGemini+2.5+Ultra%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '3',
@@ -34,7 +34,7 @@ export const newsData: NewsItem[] = [
     date: '2026-06-03',
     tag: '大模型',
     source: 'Anthropic Blog',
-    imageUrl: 'https://placehold.co/600x400/f59e0b/ffffff?text=Claude+4',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%23f59e0b%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eClaude+4%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '4',
@@ -43,7 +43,7 @@ export const newsData: NewsItem[] = [
     date: '2026-05-28',
     tag: '开源',
     source: 'Meta AI',
-    imageUrl: 'https://placehold.co/600x400/8b5cf6/ffffff?text=Llama+4',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%238b5cf6%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eLlama+4%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '5',
@@ -52,7 +52,7 @@ export const newsData: NewsItem[] = [
     date: '2026-05-25',
     tag: 'AI工具',
     source: 'TechCrunch',
-    imageUrl: 'https://placehold.co/600x400/ec4899/ffffff?text=AI+Coding',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%23ec4899%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eAI+Coding%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '6',
@@ -61,7 +61,7 @@ export const newsData: NewsItem[] = [
     date: '2026-05-20',
     tag: 'AI视频',
     source: '机器之心',
-    imageUrl: 'https://placehold.co/600x400/06b6d4/ffffff?text=Sora+2.0',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%2306b6d4%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eSora+2.0%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '7',
@@ -70,7 +70,7 @@ export const newsData: NewsItem[] = [
     date: '2026-05-15',
     tag: 'AI政策',
     source: 'Reuters',
-    imageUrl: 'https://placehold.co/600x400/ef4444/ffffff?text=EU+AI+Act',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%23ef4444%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eEU+AI+Act%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '8',
@@ -79,7 +79,7 @@ export const newsData: NewsItem[] = [
     date: '2026-05-10',
     tag: 'AI应用',
     source: '36氪',
-    imageUrl: 'https://placehold.co/600x400/14b8a6/ffffff?text=AI+Agent',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%2314b8a6%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eAI+Agent%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
 ]
 

@@ -16,7 +16,7 @@ export const tutorialsData: TutorialItem[] = [
     duration: '30分钟',
     difficulty: 'beginner',
     category: 'API开发',
-    imageUrl: 'https://placehold.co/400x250/6366f1/ffffff?text=GPT',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22400%22+height%3d%22250%22%3e%0a++%3crect+width%3d%22400%22+height%3d%22250%22+fill%3d%22%236366f1%22%2f%3e%0a++%3ctext+x%3d%22200%22+y%3d%22125%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2218%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eGPT+Guide%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '2',
@@ -25,7 +25,7 @@ export const tutorialsData: TutorialItem[] = [
     duration: '45分钟',
     difficulty: 'intermediate',
     category: '框架',
-    imageUrl: 'https://placehold.co/400x250/10b981/ffffff?text=Stable+Diffusion',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22400%22+height%3d%22250%22%3e%0a++%3crect+width%3d%22400%22+height%3d%22250%22+fill%3d%22%2310b981%22%2f%3e%0a++%3ctext+x%3d%22200%22+y%3d%22125%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2218%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eStable+Diffusion%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '3',
@@ -34,7 +34,7 @@ export const tutorialsData: TutorialItem[] = [
     duration: '60分钟',
     difficulty: 'advanced',
     category: 'Agent',
-    imageUrl: 'https://placehold.co/400x250/f59e0b/ffffff?text=Prompt',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22400%22+height%3d%22250%22%3e%0a++%3crect+width%3d%22400%22+height%3d%22250%22+fill%3d%22%23f59e0b%22%2f%3e%0a++%3ctext+x%3d%22200%22+y%3d%22125%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2218%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3ePrompt+Engineering%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '4',
@@ -43,7 +43,7 @@ export const tutorialsData: TutorialItem[] = [
     duration: '45分钟',
     difficulty: 'intermediate',
     category: '图像',
-    imageUrl: 'https://placehold.co/400x250/8b5cf6/ffffff?text=LangChain',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22400%22+height%3d%22250%22%3e%0a++%3crect+width%3d%22400%22+height%3d%22250%22+fill%3d%22%238b5cf6%22%2f%3e%0a++%3ctext+x%3d%22200%22+y%3d%22125%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2218%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eLangChain%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '5',
@@ -52,7 +52,7 @@ export const tutorialsData: TutorialItem[] = [
     duration: '25分钟',
     difficulty: 'beginner',
     category: '提示工程',
-    imageUrl: 'https://placehold.co/400x250/ec4899/ffffff?text=Codex',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22400%22+height%3d%22250%22%3e%0a++%3crect+width%3d%22400%22+height%3d%22250%22+fill%3d%22%23ec4899%22%2f%3e%0a++%3ctext+x%3d%22200%22+y%3d%22125%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2218%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eCodex+CLI%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '6',
@@ -61,7 +61,7 @@ export const tutorialsData: TutorialItem[] = [
     duration: '20分钟',
     difficulty: 'beginner',
     category: '前端',
-    imageUrl: 'https://placehold.co/400x250/06b6d4/ffffff?text=Fine-Tuning',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22400%22+height%3d%22250%22%3e%0a++%3crect+width%3d%22400%22+height%3d%22250%22+fill%3d%22%2306b6d4%22%2f%3e%0a++%3ctext+x%3d%22200%22+y%3d%22125%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2218%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eFine-Tuning%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '7',
@@ -70,7 +70,7 @@ export const tutorialsData: TutorialItem[] = [
     duration: '50分钟',
     difficulty: 'advanced',
     category: '数据',
-    imageUrl: 'https://placehold.co/400x250/ef4444/ffffff?text=RAG',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22400%22+height%3d%22250%22%3e%0a++%3crect+width%3d%22400%22+height%3d%22250%22+fill%3d%22%23ef4444%22%2f%3e%0a++%3ctext+x%3d%22200%22+y%3d%22125%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2218%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eRAG%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
   {
     id: '8',
@@ -79,7 +79,7 @@ export const tutorialsData: TutorialItem[] = [
     duration: '40分钟',
     difficulty: 'intermediate',
     category: '部署',
-    imageUrl: 'https://placehold.co/400x250/14b8a6/ffffff?text=Agent',
+    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22400%22+height%3d%22250%22%3e%0a++%3crect+width%3d%22400%22+height%3d%22250%22+fill%3d%22%2314b8a6%22%2f%3e%0a++%3ctext+x%3d%22200%22+y%3d%22125%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2218%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eAI+Agent%3c%2ftext%3e%0a%3c%2fsvg%3e',
   },
 ]
 
