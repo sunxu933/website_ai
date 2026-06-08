@@ -16,7 +16,7 @@ export const newsData: NewsItem[] = [
     date: '2026-06-07',
     tag: '大模型',
     source: 'OpenAI官方',
-    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%236366f1%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eGPT-5%3c%2ftext%3e%0a%3c%2fsvg%3e',
+    imageUrl: '/images/news-gpt5.svg',
   },
   {
     id: '2',
@@ -25,7 +25,7 @@ export const newsData: NewsItem[] = [
     date: '2026-06-05',
     tag: '大模型',
     source: 'Google AI Blog',
-    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%2310b981%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eGemini+2.5+Ultra%3c%2ftext%3e%0a%3c%2fsvg%3e',
+    imageUrl: '/images/news-gemini.svg',
   },
   {
     id: '3',
@@ -34,7 +34,7 @@ export const newsData: NewsItem[] = [
     date: '2026-06-03',
     tag: '大模型',
     source: 'Anthropic Blog',
-    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%23f59e0b%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eClaude+4%3c%2ftext%3e%0a%3c%2fsvg%3e',
+    imageUrl: '/images/news-claude.svg',
   },
   {
     id: '4',
@@ -43,7 +43,7 @@ export const newsData: NewsItem[] = [
     date: '2026-05-28',
     tag: '开源',
     source: 'Meta AI',
-    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%238b5cf6%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eLlama+4%3c%2ftext%3e%0a%3c%2fsvg%3e',
+    imageUrl: '/images/news-llama.svg',
   },
   {
     id: '5',
@@ -52,7 +52,7 @@ export const newsData: NewsItem[] = [
     date: '2026-05-25',
     tag: 'AI工具',
     source: 'TechCrunch',
-    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%23ec4899%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eAI+Coding%3c%2ftext%3e%0a%3c%2fsvg%3e',
+    imageUrl: '/images/news-aicoding.svg',
   },
   {
     id: '6',
@@ -61,7 +61,7 @@ export const newsData: NewsItem[] = [
     date: '2026-05-20',
     tag: 'AI视频',
     source: '机器之心',
-    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%2306b6d4%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eSora+2.0%3c%2ftext%3e%0a%3c%2fsvg%3e',
+    imageUrl: '/images/news-sora.svg',
   },
   {
     id: '7',
@@ -70,7 +70,7 @@ export const newsData: NewsItem[] = [
     date: '2026-05-15',
     tag: 'AI政策',
     source: 'Reuters',
-    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%23ef4444%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eEU+AI+Act%3c%2ftext%3e%0a%3c%2fsvg%3e',
+    imageUrl: '/images/news-euai.svg',
   },
   {
     id: '8',
@@ -79,7 +79,7 @@ export const newsData: NewsItem[] = [
     date: '2026-05-10',
     tag: 'AI应用',
     source: '36氪',
-    imageUrl: 'data:image/svg+xml,%3csvg+xmlns%3d%22http%3a%2f%2fwww.w3.org%2f2000%2fsvg%22+width%3d%22600%22+height%3d%22400%22%3e%0a++%3crect+width%3d%22600%22+height%3d%22400%22+fill%3d%22%2314b8a6%22%2f%3e%0a++%3ctext+x%3d%22300%22+y%3d%22200%22+font-family%3d%22Arial%2csans-serif%22+font-size%3d%2222%22+fill%3d%22white%22+text-anchor%3d%22middle%22+dominant-baseline%3d%22middle%22+font-weight%3d%22bold%22%3eAI+Agent%3c%2ftext%3e%0a%3c%2fsvg%3e',
+    imageUrl: '/images/news-agent.svg',
   },
 ]
 

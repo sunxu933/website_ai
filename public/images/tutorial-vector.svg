@@ -1,0 +1,13 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'>
+  <defs>
+    <linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'>
+      <stop offset='0%' style='stop-color:#ef4444;stop-opacity:0.9'/>
+      <stop offset='100%' style='stop-color:darken;stop-opacity:0.95'/>
+    </linearGradient>
+  </defs>
+  <rect width='400' height='250' fill='url(#g)'/>
+  <g transform='translate(180,85) scale(1.8)' fill='rgba(255,255,255,0.12)'><path d="M4 1h16a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1m0 8h16a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1m0 8h16a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1M9 5h1V3H9v2m0 8h1v-2H9v2m0 8h1v-2H9v2M5 3v2h2V3H5m0 8v2h2v-2H5m0 8v2h2v-2H5z"/></g>
+  <text x='200' y='115' font-family='Arial,sans-serif' font-size='24' fill='white' text-anchor='middle' font-weight='bold'>向量数据库</text>
+  <line x1='160' y1='140' x2='240' y2='140' stroke='rgba(255,255,255,0.4)' stroke-width='2' stroke-linecap='round'/>
+  <text x='200' y='165' font-family='Arial,sans-serif' font-size='13' fill='rgba(255,255,255,0.7)' text-anchor='middle'>LlamaIndex</text>
+</svg>

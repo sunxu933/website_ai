@@ -1,0 +1,13 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'>
+  <defs>
+    <linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'>
+      <stop offset='0%' style='stop-color:#6366f1;stop-opacity:0.9'/>
+      <stop offset='100%' style='stop-color:darken;stop-opacity:0.95'/>
+    </linearGradient>
+  </defs>
+  <rect width='400' height='250' fill='url(#g)'/>
+  <g transform='translate(180,85) scale(1.8)' fill='rgba(255,255,255,0.12)'><path d="M12 2a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8zm-1 2H5v3h6V4zm3 2h6v2h-6V6zm0 4h6v2h-6v-2zm-9 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm-1 4h10v5a2 2 0 0 1-2 2h-6a2 2 0 0 1-2-2v-5zm2 0v5h6v-5H6z"/></g>
+  <text x='200' y='115' font-family='Arial,sans-serif' font-size='24' fill='white' text-anchor='middle' font-weight='bold'>ChatGPT应用</text>
+  <line x1='160' y1='140' x2='240' y2='140' stroke='rgba(255,255,255,0.4)' stroke-width='2' stroke-linecap='round'/>
+  <text x='200' y='165' font-family='Arial,sans-serif' font-size='13' fill='rgba(255,255,255,0.7)' text-anchor='middle'>API开发</text>
+</svg>

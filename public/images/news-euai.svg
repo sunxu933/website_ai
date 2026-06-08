@@ -1,0 +1,13 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 400'>
+  <defs>
+    <linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'>
+      <stop offset='0%' style='stop-color:#ef4444;stop-opacity:0.9'/>
+      <stop offset='100%' style='stop-color:darken;stop-opacity:0.95'/>
+    </linearGradient>
+  </defs>
+  <rect width='600' height='400' fill='url(#g)'/>
+  <g transform='translate(270,130) scale(2.5)' fill='rgba(255,255,255,0.15)'><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V6.3l7-3.11v8.8z"/></g>
+  <text x='300' y='180' font-family='Arial,sans-serif' font-size='36' fill='white' text-anchor='middle' font-weight='bold'>EU AI Act</text>
+  <line x1='250' y1='210' x2='350' y2='210' stroke='rgba(255,255,255,0.4)' stroke-width='2' stroke-linecap='round'/>
+  <rect x='240' y='250' width='120' height='3' rx='1.5' fill='rgba(255,255,255,0.2)'/>
+</svg>

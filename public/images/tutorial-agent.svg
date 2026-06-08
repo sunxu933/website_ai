@@ -1,0 +1,13 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'>
+  <defs>
+    <linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'>
+      <stop offset='0%' style='stop-color:#f59e0b;stop-opacity:0.9'/>
+      <stop offset='100%' style='stop-color:darken;stop-opacity:0.95'/>
+    </linearGradient>
+  </defs>
+  <rect width='400' height='250' fill='url(#g)'/>
+  <g transform='translate(180,85) scale(1.8)' fill='rgba(255,255,255,0.12)'><path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.39-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v1a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-1H2a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.34-1-.99-1-1.73a2 2 0 0 1 2-2z"/></g>
+  <text x='200' y='115' font-family='Arial,sans-serif' font-size='24' fill='white' text-anchor='middle' font-weight='bold'>AI Agent</text>
+  <line x1='160' y1='140' x2='240' y2='140' stroke='rgba(255,255,255,0.4)' stroke-width='2' stroke-linecap='round'/>
+  <text x='200' y='165' font-family='Arial,sans-serif' font-size='13' fill='rgba(255,255,255,0.7)' text-anchor='middle'>AutoGPT</text>
+</svg>
